@@ -1,5 +1,4 @@
-# ACCIDENT-DETECTION
- Detects vehicle accidents in real-time and alerts emergency contacts with location details.  
+ 
 #include<SoftwareSerial.h>
 SoftwareSerial Serial1(2,3); //make RX arduino line is pin 2, make TX arduino line is pin 3. SoftwareSerial gps(10,11);
 #include<LiquidCrystal.h>
